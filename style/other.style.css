@@ -1,6 +1,6 @@
 @media only screen and (max-width: 3000px) {
     .img-container {
-        justify-content: center;
+        text-align: center;
     }
     .img-container img {
         width: 60%;
