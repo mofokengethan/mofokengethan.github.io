@@ -1,6 +1,9 @@
 @media only screen and (max-width: 1480px) {
+    .img-container {
+        text-align: center;
+    }
     .img-container img {
-        width: 80%;
+        width: 60%;
         border-radius: 10px;
     }
     h1 {
@@ -84,9 +87,9 @@
     /* Web Container */
     .web-container {
         font-family: 'Playfair Display';
-        margin-top: 60px;
-        margin-left: 120px;
-        margin-right: 120px;
+        margin-top: 40px;
+        margin-left: 240px;
+        margin-right: 240px;
     }
 
     /* Navigation Card 1 */
