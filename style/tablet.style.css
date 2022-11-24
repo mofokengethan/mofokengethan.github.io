@@ -22,7 +22,7 @@
 
     h3 {
         color: #000;
-        font-size: 28px; /* +12 */
+        font-size: 26px; /* +12 */
         font-weight: 900;
     }
 
@@ -71,7 +71,7 @@
     .greeting-card,
     a h4 {
         color: black;
-        font-size: 30px; /* +10 */
+        font-size: 26px; /* +10 */
     }
 
     .greeting-card-description p {
@@ -87,9 +87,9 @@
     /* Web Container */
     .web-container {
         font-family: 'Playfair Display';
-        margin-top: 80px;
-        margin-left: 80px;
-        margin-right: 80px;
+        margin-top: 40px;
+        margin-left: 120px;
+        margin-right: 120px;
     }
 
     /* Navigation Card 1 */
