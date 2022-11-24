@@ -1,0 +1,160 @@
+@media only screen and (max-width: 1480px) {
+    .img-container img {
+        width: 80%;
+        border-radius: 10px;
+    }
+    h1 {
+        color: #000;
+        font-size: 46px;
+        font-weight: 100;
+        margin-top: 10px;
+        margin-bottom: 0px;
+    }
+    h2 {
+        color: black;
+        font-size: 42px;
+        font-weight: 100;
+        margin: 0;
+    }
+
+    h3 {
+        color: #000;
+        font-size: 36px;
+        font-weight: 900;
+    }
+
+    h4 {
+        font-weight: 100;
+        margin: 0;
+    }
+
+    .section-label, h3 {
+        font-weight: 900;
+    }
+
+
+    p {
+        color: black;
+        font-size: 24px;
+        font-weight: 100;
+        margin: 10;
+    }
+
+    a {
+        text-decoration: none;
+        user-select: none;
+    }
+
+    .greeting-card,
+    a p {
+        color: white;
+    }
+
+    .greeting-card,
+    a h3 {
+        color: black;
+        font-weight: 100;
+        margin: 0;
+    }
+    
+    .navigation-card-1 a h2 {
+        color: black;
+    }
+
+    .navigation-card-2 a h2 {
+        color: black;
+    }
+
+    .greeting-card,
+    a h4 {
+        color: black;
+        font-size: 38px;
+    }
+
+    .greeting-card-description p {
+        color: black;
+    }
+
+    /* Description Container */
+    .description-container {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    /* Web Container */
+    .web-container {
+        font-family: 'Playfair Display';
+        margin-top: 60px;
+        margin-left: 120px;
+        margin-right: 120px;
+    }
+
+    /* Navigation Card 1 */
+    .navigation-card-1 {
+        background-color: #fffbf7;
+        border-radius: 5px;
+        padding: 10px;
+        margin-bottom: 20px;
+        box-shadow: rgba(0, 0, 0, 0.35) 0px 1px 1px, rgba(9, 30, 66, 0.13) 0px 0px 1px 1px;
+    }
+
+    /* Navigation Card 1 */
+    .navigation-card-2 {
+        background-color: #fffbf7;
+        border-radius: 5px;
+        padding: 10px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        box-shadow: rgba(0, 0, 0, 0.35) 0px 1px 1px, rgba(9, 30, 66, 0.13) 0px 0px 1px 1px;
+    }
+
+    /* Navigation Header */
+    .navigation-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: baseline;
+    }
+
+    .navigation-header img {
+        height: 34px;
+        width: 36px;
+    }
+
+    /* Greeting Card */
+    .greeting-card {
+        background-color: #fffbf7;
+        border-radius: 5px;
+        padding: 10px;
+        margin-bottom: 20px;
+        box-shadow: rgba(0, 0, 0, 0.35) 0px 1px 1px, rgba(9, 30, 66, 0.13) 0px 0px 1px 1px;
+    }
+
+    /* Button */
+    .button-1 {
+        display: flex;
+        flex-direction: row;
+        margin-right: 40%;
+        background-color: black;
+        justify-content: center;
+        text-decoration: none;
+        font-weight: 900;
+        border-radius: 10px;
+    }
+
+    .footer {
+        padding: 2px;
+        background-color: #fffbf7;
+        box-shadow: rgba(0, 0, 0, 0.35) 0px 1px 1px, rgba(9, 30, 66, 0.13) 0px 0px 1px 1px;
+        border-radius: 10px;
+        margin-top: 40px;
+        position: relative;
+        transform: translateX(50%);
+        width: 50%;
+        bottom: 0;
+    }
+
+    .footer p {
+        font-size: 18px;
+        text-align: center;
+    }
+}
