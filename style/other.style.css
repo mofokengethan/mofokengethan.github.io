@@ -5,21 +5,21 @@
     }
     h1 {
         color: #000;
-        font-size: 48px;
+        font-size: 44px;
         font-weight: 100;
         margin-top: 10px;
         margin-bottom: 0px;
     }
     h2 {
         color: black;
-        font-size: 44px;
+        font-size: 40px;
         font-weight: 100;
         margin: 0;
     }
 
     h3 {
         color: #000;
-        font-size: 38px;
+        font-size: 34px;
         font-weight: 900;
     }
 
@@ -35,7 +35,7 @@
 
     p {
         color: black;
-        font-size: 26px;
+        font-size: 24px;
         font-weight: 100;
         margin: 10;
     }
@@ -68,7 +68,7 @@
     .greeting-card,
     a h4 {
         color: black;
-        font-size: 40px;
+        font-size: 34px;
     }
 
     .greeting-card-description p {
@@ -85,8 +85,8 @@
     .web-container {
         font-family: 'Playfair Display';
         margin-top: 60px;
-        margin-left: 200px;
-        margin-right: 200px;
+        margin-left: 240px;
+        margin-right: 240px;
     }
 
     /* Navigation Card 1 */
